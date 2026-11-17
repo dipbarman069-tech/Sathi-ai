@@ -1,0 +1,6 @@
+{
+  "name": "Saathi",
+  "description": "Offline-first personal voice assistant for private, permission-gated phone control in Hindi, Hinglish, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

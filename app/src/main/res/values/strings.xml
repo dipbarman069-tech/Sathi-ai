@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Saathi</string>
+    <string name="accessibility_service_label">Saathi Phone Control</string>
+    <string name="accessibility_service_description">Executes screen taps, scrolls, text typing, and screenshots ONLY when you explicitly command Saathi. Banking, UPI, and password apps remain blocked by default.</string>
+    <string name="notification_listener_label">Saathi Notification Reader</string>
+    <string name="wake_word_channel_name">Saathi Wake Word Listener</string>
+    <string name="wake_word_channel_description">Visible notification shown whenever hands-free wake-word detection is enabled by you.</string>
+    <string name="kill_switch_label">Stop Everything</string>
+    <string name="offline_badge">ON-DEVICE ONLY</string>
+    <string name="online_badge">ONLINE MODE</string>
+</resources>
